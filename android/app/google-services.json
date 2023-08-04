@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "53207043018",
+    "project_id": "wajahat-dff90",
+    "storage_bucket": "wajahat-dff90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53207043018:android:ca1fbb3550e21c295e5d33",
+        "android_client_info": {
+          "package_name": "com.example.wajahat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53207043018-v4voift95jciaefdr7n9je0fimfd7upi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzAEjjFxa8oUJQvEjn6IIfT7HWr1778cg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53207043018-v4voift95jciaefdr7n9je0fimfd7upi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
